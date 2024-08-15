@@ -1,6 +1,6 @@
 # MESC
 
-[Source code and dataset of the paper Towards Multimodal Emotional Support Conversation Systems](https://arxiv.org/abs/2408.03650)
+Source code and dataset of the paper [Towards Multimodal Emotional Support Conversation Systems](https://arxiv.org/abs/2408.03650)
 
 # Introduction
 The Multimodal Emotional Support Conversation dataset (MESC) is enriched with comprehensive emotional support annotations across text, audio, and video modalities for mental health care. The MESC dataset is sourced from the TV show *In Treatment*, specifically from seasons 1 to 3. The series provides a detailed portrayal of the weekly sessions between psychotherapist Paul Weston and his patients, alongside his personal consultations with a therapist.
